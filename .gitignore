@@ -1,0 +1,5 @@
+# プラグイン使用時に生成されるフォルダ
+.ai-team/
+
+# Claude Code のローカル設定
+.claude/

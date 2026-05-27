@@ -1,0 +1,16 @@
+{
+  "name": "ai-soshiki",
+  "version": "1.0.0",
+  "description": "AI秘書を起点にしたAIチーム編成・運用スキル",
+  "author": "milyimi",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-plugin",
+    "ai",
+    "team",
+    "secretary",
+    "organization",
+    "productivity"
+  ]
+}

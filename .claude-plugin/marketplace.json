@@ -1,0 +1,24 @@
+{
+  "name": "ai-soshiki",
+  "owner": {
+    "name": "milyimi"
+  },
+  "metadata": {
+    "description": "AI秘書を起点にしたAIチーム編成・運用スキル。3ステップで即スタート。"
+  },
+  "plugins": [
+    {
+      "name": "soshiki",
+      "source": "./plugins/soshiki",
+      "description": "AI秘書を起点にしたAIチーム編成・運用スキル。3ステップで即スタート、担当AIは必要に応じて自然に増える。",
+      "version": "1.0.0",
+      "author": {
+        "name": "milyimi"
+      },
+      "repository": "https://github.com/milyimi/ai-soshiki",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["ai", "team", "secretary", "organization", "productivity"]
+    }
+  ]
+}
